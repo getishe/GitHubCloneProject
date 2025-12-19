@@ -1,12 +1,10 @@
-Modification in main branch.
-This is the description of my repo
-
 # Project: Modern JavaScript User Dashboard
 
 Three Real Project Ideas (ES6+ Focused)
 
-1. Mini User Dashboard (API‑powered CLI or Web App)
-   A small app that:
+### Mini User Dashboard (API‑powered CLI or Web App)
+
+A small app that:
 
 Fetches real API data
 
@@ -47,7 +45,7 @@ It’s perfect for a portfolio or assignment
 
 ## 📦 Installation
 
-git clone https://github.com/<your-username>/modern-js-dashboard
+git clone https://github.com/getishe/GitHubCloneProject.git
 cd modern-js-dashboard
 npm install
 

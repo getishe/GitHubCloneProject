@@ -1,5 +1,3 @@
-# Project: Modern JavaScript User Dashboard
-
 Three Real Project Ideas (ES6+ Focused)
 
 ### Mini User Dashboard (API‑powered CLI or Web App)

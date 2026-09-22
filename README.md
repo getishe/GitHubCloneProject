@@ -27,7 +27,7 @@ A beginner‑friendly project demonstrating ES6+ features including:
 - Formats and displays user information
 - Clean modular structure
 - Uses modern JavaScript best practices
-- Responsive design
+- Responsive design.
 
 ## Why This Project Works
 
